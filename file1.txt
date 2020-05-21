@@ -1,1 +1,2 @@
 Here i am writig some data in file1 inDeveloper folder
+i modified somthig in file one
